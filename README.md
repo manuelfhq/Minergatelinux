@@ -1,0 +1,2 @@
+# Minergatelinux
+Minergatelinux
